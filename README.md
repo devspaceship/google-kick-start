@@ -1,2 +1,2 @@
-# google-kick-start
-Google Kick Start Submissions
+# Google Kick Start
+Google Kick Start coding contest submissions
